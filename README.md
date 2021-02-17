@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning python,css,Java,html5,and C++
 - 📫 How to reach me : ccjjfdyqlhy@163.com,ccjjfdyqlhy@outlook.com
 
-<!---
-ccjjfdyqlhy/ccjjfdyqlhy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#嗨，我是@ccjjfdyqlhy，facebook中的Jeffery，微信中的The Chosen One。
+我会的语言：
+python，css，c++，Java，html5
+邮箱：ccjjfdyqlhy@163.com
+     ccjjfdyqlhy@outlook.com
