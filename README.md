@@ -5,6 +5,6 @@
 
 # 嗨，我是@ccjjfdyqlhy，facebook中的Jeffery，微信中的The Chosen One。  
 我会的语言：  
-python，css，c++，Java，html5  
+python（最擅长），css，c++，Java，html5  
 邮箱：ccjjfdyqlhy@163.com  
      ccjjfdyqlhy@outlook.com  
