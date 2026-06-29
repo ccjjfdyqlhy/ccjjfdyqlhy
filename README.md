@@ -1,5 +1,5 @@
 
-[![Darkstar's GitHub Roast](https://githubroast.icu/api/badge/ccjjfdyqlhy)]()
+[![Darkstar's GitHub Roast](https://githubroast.icu/api/badge/ccjjfdyqlhy)](https://githubroast.icu/)  <- Click here to roast yourself too pls
 ## Status
 [![Darkstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccjjfdyqlhy&show_icons=true&theme=radical)]()
 [![Darkstar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccjjfdyqlhy&layout=compact&show_icons=true&theme=radical)]()
