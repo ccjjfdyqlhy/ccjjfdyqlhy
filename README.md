@@ -1,11 +1,22 @@
 <div align="center">
-  <a href="https://codetime.dev">
+  <td>
+    <a href="https://#gh-light-mode-only">
     <img src="https://codetime.dev/api/widgets/status.svg?uid=37278&theme=dark&style=minimal" alt="CodeTime Status" />
   </a>
   <br />
-  <a href="https://codetime.dev">
+  <a href="https://#gh-light-mode-only">
     <img src="https://codetime.dev/api/widgets/trend.svg?uid=37278&days=90&theme=dark" alt="CodeTime Trend" />
   </a>
+  </td>
+  <td>
+  <a href="https://#gh-dark-mode-only">
+    <img src="https://codetime.dev/api/widgets/status.svg?uid=37278&theme=dark&style=minimal" alt="CodeTime Status" />
+  </a>
+  <br />
+  <a href="https://#gh-dark-mode-only">
+    <img src="https://codetime.dev/api/widgets/trend.svg?uid=37278&days=90&theme=dark" alt="CodeTime Trend" />
+  </a>
+  </td>
 </div>
 
 <table width="100%" align="center">
