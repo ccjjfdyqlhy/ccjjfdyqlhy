@@ -1,7 +1,41 @@
-## Status
-[![CodeTime Status](https://codetime.dev/api/widgets/status.svg?uid=37278&theme=dark&style=minimal)](https://codetime.dev)
+<div align="center">
+  <a href="https://codetime.dev">
+    <img src="https://codetime.dev/api/widgets/status.svg?uid=37278&theme=dark&style=minimal" alt="CodeTime Status" />
+  </a>
+  <br />
+  <a href="https://codetime.dev">
+    <img src="https://codetime.dev/api/widgets/trend.svg?uid=37278&days=90&theme=dark" alt="CodeTime Trend" />
+  </a>
+</div>
 
-[![CodeTime Trend](https://codetime.dev/api/widgets/trend.svg?uid=37278&days=90&theme=dark)](https://codetime.dev) [![Darkstar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccjjfdyqlhy&layout=compact&show_icons=true&theme=radical)]()
+<table width="100%" align="center">
+  <tr>
+    <td>
+      <a href="https://#gh-light-mode-only">
+        <img
+          src="https://github-readme-stats-one-bice.vercel.app/api?username=ccjjfdlqhy&show_icons=true&hide_border=true&bg_color=00000000&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+          height="200" />
+      </a>
+      <a href="https://#gh-dark-mode-only">
+        <img
+          src="https://github-readme-stats-one-bice.vercel.app/api?username=ccjjfdyqlhy&show_icons=true&hide_border=true&bg_color=00000000&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+          height="200" />
+      </a>
+    </td>
+    <td>
+      <a href="https://#gh-light-mode-only">
+        <img
+          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ccjjfdyqlhy&hide_border=true&layout=compact&langs_count=6&bg_color=00000000"
+          height="200" />
+      </a>
+      <a href="https://#gh-dark-mode-only">
+        <img
+          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ccjjfdyqlhy&hide_border=true&layout=compact&langs_count=6&bg_color=00000000&theme=dark"
+          height="200" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## I'm currently working on...
 - **[DSN-exp](https://github.com/ccjjfdyqlhy/DSN-exp)**, a digital soul that lives in your computer. It does things and actively sustains your daily.
