@@ -50,6 +50,7 @@
 
 ## I'm currently working on...
 - **[DSN-exp](https://github.com/ccjjfdyqlhy/DSN-exp)**, a digital soul that lives in your computer. It does things and actively sustains your daily.
+- **[Dekacode](https://github.com/ccjjfdyqlhy/dekacode)**, the coding agent that aimed to save tokens for you. ;)
 - **PyRite Implementations: [AST Interpreter](https://github.com/ccjjfdyqlhy/PyRite), [Bytecode Compiler & VM](https://github.com/ccjjfdyqlhy/compiler), and [JS Runtime](https://github.com/ccjjfdyqlhy/PyRiteJS)** - A self designed programming language. Simple syntax. Compiles itself and orchestrates webapps.  
 
 ---
