@@ -1,3 +1,9 @@
+## It's Darkstar :D
+
+- Hi there!
+- ❤️ AI Agents, Compilers & Shaders.
+- “Bit of everything, but mostly my own vibe.”
+
 <div align="center">
   <td>
     <a href="https://#gh-light-mode-only">
