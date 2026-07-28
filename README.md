@@ -30,7 +30,7 @@
     <td>
       <a href="https://#gh-light-mode-only">
         <img
-          src="https://github-readme-stats-one-bice.vercel.app/api?username=ccjjfdlqhy&show_icons=true&hide_border=true&bg_color=00000000&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+          src="https://github-readme-stats-one-bice.vercel.app/api?username=ccjjfdyqlhy&show_icons=true&hide_border=true&bg_color=00000000&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
           height="200" />
       </a>
       <a href="https://#gh-dark-mode-only">
