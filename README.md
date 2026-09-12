@@ -4,27 +4,6 @@
 - ❤️ AI Agents, Compilers & Shaders.
 - “Bit of everything, but mostly my own vibe.”
 
-<div align="center">
-  <td>
-    <a href="https://#gh-light-mode-only">
-    <img src="https://codetime.dev/api/widgets/status.svg?uid=37278&theme=dark&style=minimal" alt="CodeTime Status" />
-  </a>
-  <br />
-  <a href="https://#gh-light-mode-only">
-    <img src="https://codetime.dev/api/widgets/trend.svg?uid=37278&days=90&theme=dark" alt="CodeTime Trend" />
-  </a>
-  </td>
-  <td>
-  <a href="https://#gh-dark-mode-only">
-    <img src="https://codetime.dev/api/widgets/status.svg?uid=37278&theme=dark&style=minimal" alt="CodeTime Status" />
-  </a>
-  <br />
-  <a href="https://#gh-dark-mode-only">
-    <img src="https://codetime.dev/api/widgets/trend.svg?uid=37278&days=90&theme=dark" alt="CodeTime Trend" />
-  </a>
-  </td>
-</div>
-
 <table width="100%" align="center">
   <tr>
     <td>
@@ -55,7 +34,7 @@
 </table>
 
 ## I'm currently working on...
-- **[DSN-exp](https://github.com/ccjjfdyqlhy/DSN-exp)**, a digital soul that lives in your computer. It does things and actively sustains your daily.
+- **[DSN-exp](https://github.com/ccjjfdyqlhy/DSN-exp)**, the AICF.
 - **[NVRT](https://github.com/ccjjfdyqlhy/voxelRT)**, the Next-generation Voxel Ray-Traced game engine. With an infinite, procedurally generated world and arbitrary-precision coordinates.  
 - **[Dekacode](https://github.com/ccjjfdyqlhy/dekacode)**, the coding agent that aimed to save tokens for you. ;)
 - **PyRite Implementations: [AST Interpreter](https://github.com/ccjjfdyqlhy/PyRite), [Bytecode Compiler & VM](https://github.com/ccjjfdyqlhy/compiler), and [JS Runtime](https://github.com/ccjjfdyqlhy/PyRiteJS)** - A self designed programming language. Simple syntax. Compiles itself and orchestrates webapps.  
