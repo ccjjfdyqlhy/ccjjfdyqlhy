@@ -35,8 +35,8 @@
 
 ## I'm currently working on...
 - **[DSN-exp](https://github.com/ccjjfdyqlhy/DSN-exp)**, the AICF.
-- **[NVRT](https://github.com/ccjjfdyqlhy/voxelRT)**, the Next-generation Voxel Ray-Traced game engine. With an infinite, procedurally generated world and arbitrary-precision coordinates.  
-- **[Dekacode](https://github.com/ccjjfdyqlhy/dekacode)**, the coding agent that aimed to save tokens for you. ;)
+- **[V2RT](https://github.com/ccjjfdyqlhy/V2RT)**, the Next-generation Voxel Ray-Traced game engine. With an infinite, procedurally generated world and arbitrary-precision coordinates.  
+- **[Dekacode](https://github.com/ccjjfdyqlhy/dekacode)**, the coding agent aimed to save tokens for you.  
 - **PyRite Implementations: [AST Interpreter](https://github.com/ccjjfdyqlhy/PyRite), [Bytecode Compiler & VM](https://github.com/ccjjfdyqlhy/compiler), and [JS Runtime](https://github.com/ccjjfdyqlhy/PyRiteJS)** - A self designed programming language. Simple syntax. Compiles itself and orchestrates webapps.  
 
 ---
